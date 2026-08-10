@@ -7,7 +7,7 @@ const trainingJobs = [
   { id: "job-2", name: "Image Classifier v2", status: "Completed" },
 ];
 
-export default function DashboardPage() {
+export default function userdashboardPage() {
   return (
     <div className="p6 space-y-6">
       <h1 className="text 2xl font semibold">Dashboard</h1>
